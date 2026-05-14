@@ -1,0 +1,14 @@
+C:\Users\chiren\Desktop\CinemaFansWinForms\CinemaFans.App\bin\Debug\net8.0-windows\CinemaFans.App.exe
+C:\Users\chiren\Desktop\CinemaFansWinForms\CinemaFans.App\bin\Debug\net8.0-windows\CinemaFans.App.deps.json
+C:\Users\chiren\Desktop\CinemaFansWinForms\CinemaFans.App\bin\Debug\net8.0-windows\CinemaFans.App.runtimeconfig.json
+C:\Users\chiren\Desktop\CinemaFansWinForms\CinemaFans.App\bin\Debug\net8.0-windows\CinemaFans.App.dll
+C:\Users\chiren\Desktop\CinemaFansWinForms\CinemaFans.App\bin\Debug\net8.0-windows\CinemaFans.App.pdb
+C:\Users\chiren\Desktop\CinemaFansWinForms\CinemaFans.App\obj\Debug\net8.0-windows\CinemaFans.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiren\Desktop\CinemaFansWinForms\CinemaFans.App\obj\Debug\net8.0-windows\CinemaFans.App.AssemblyInfoInputs.cache
+C:\Users\chiren\Desktop\CinemaFansWinForms\CinemaFans.App\obj\Debug\net8.0-windows\CinemaFans.App.AssemblyInfo.cs
+C:\Users\chiren\Desktop\CinemaFansWinForms\CinemaFans.App\obj\Debug\net8.0-windows\CinemaFans.App.csproj.CoreCompileInputs.cache
+C:\Users\chiren\Desktop\CinemaFansWinForms\CinemaFans.App\obj\Debug\net8.0-windows\CinemaFans.App.dll
+C:\Users\chiren\Desktop\CinemaFansWinForms\CinemaFans.App\obj\Debug\net8.0-windows\refint\CinemaFans.App.dll
+C:\Users\chiren\Desktop\CinemaFansWinForms\CinemaFans.App\obj\Debug\net8.0-windows\CinemaFans.App.pdb
+C:\Users\chiren\Desktop\CinemaFansWinForms\CinemaFans.App\obj\Debug\net8.0-windows\CinemaFans.App.genruntimeconfig.cache
+C:\Users\chiren\Desktop\CinemaFansWinForms\CinemaFans.App\obj\Debug\net8.0-windows\ref\CinemaFans.App.dll
